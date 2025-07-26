@@ -1,0 +1,2965 @@
+{
+  "version": "1.0",
+  "href": "https://listening.api.npr.org/v2/modules/topHeadlines/module?hash=1f98d9c",
+  "attributes": {
+    "id": "1f98d9c",
+    "type": "topHeadlines",
+    "title": "Top Headlines",
+    "deepLinkId": "topHeadlines",
+    "itemType": "text",
+    "renderType": "more"
+  },
+  "items": [
+    {
+      "version": "1.0",
+      "href": "https://listening.api.npr.org/v2/recommendations?uid=nx-s1-5073003%3ATEXT",
+      "attributes": {
+        "title": "In his Florida primary, Matt Gaetz is fighting over the future identity of the GOP",
+        "uid": "nx-s1-5073003:TEXT",
+        "label": null,
+        "storyId": "nx-s1-5073003",
+        "type": "text",
+        "renderType": "primary",
+        "slug": {
+          "href": "https://www.npr.org/programs/all-things-considered/",
+          "title": "All Things Considered",
+          "externalId": "2",
+          "badge": null
+        },
+        "provider": "NPR",
+        "date": "2024-08-16T11:00:00+00:00",
+        "description": "Gaetz is in a primary fight tied to ousted House Speaker Kevin McCarthy, the latest salvo in an ongoing war. Gaetz led that ouster. Now his district encapsulates a GOP intraparty clash that fuels dysfunction on the House floor and the campaign trail."
+      },
+      "items": [],
+      "links": {
+        "profile": [
+          {
+            "content-type": "text/html",
+            "href": "/profiles/TextItemDocument"
+          }
+        ],
+        "image": [
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2540x1905+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "rel": "standard",
+            "image": "g-s1-17117",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2540x1429+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "rel": "wide",
+            "image": "g-s1-17117",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1905x1905+592+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "rel": "square",
+            "image": "g-s1-17117",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2540x1693+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "rel": "slide",
+            "image": "g-s1-17117",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2540x1168+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "image": "g-s1-17117",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1429x1905+830+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "image": "g-s1-17117",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2540x1905+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "image": "g-s1-17117",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2540x1905+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "rel": "standard",
+            "image": "g-s1-17117-1",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2540x1429+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "rel": "wide",
+            "image": "g-s1-17117-1",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1905x1905+592+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "rel": "square",
+            "image": "g-s1-17117-1",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2540x1693+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "rel": "slide",
+            "image": "g-s1-17117-1",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2540x1168+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "image": "g-s1-17117-1",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1429x1905+830+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "image": "g-s1-17117-1",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2540x1905+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "image": "g-s1-17117-1",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2540x1905+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "rel": "standard",
+            "image": "g-s1-17117-2",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2540x1429+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "rel": "wide",
+            "image": "g-s1-17117-2",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1905x1905+592+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "rel": "square",
+            "image": "g-s1-17117-2",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2540x1693+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "rel": "slide",
+            "image": "g-s1-17117-2",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2540x1168+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "image": "g-s1-17117-2",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1429x1905+830+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "image": "g-s1-17117-2",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2540x1905+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "image": "g-s1-17117-2",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2540x1905+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "rel": "standard",
+            "image": "g-s1-17117-3",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2540x1429+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "rel": "wide",
+            "image": "g-s1-17117-3",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1905x1905+592+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "rel": "square",
+            "image": "g-s1-17117-3",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2540x1693+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "rel": "slide",
+            "image": "g-s1-17117-3",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2540x1168+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "image": "g-s1-17117-3",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1429x1905+830+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "image": "g-s1-17117-3",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2540x1905+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fdd%2Faf66655c4a339d506b32c60840e8%2Fimg-2352.jpg",
+            "image": "g-s1-17117-3",
+            "producer": "Claudia Grisales",
+            "provider": "NPR",
+            "caption": " Rep. Matt Gaetz, R-Fla., addresses a crowd in Niceville, Fla. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://media.npr.org/assets/img/2022/09/23/all-things-considered_tile_npr-network_sq-d0a3240a9b7a682c735d6f004d9d48f42de13030.jpg?s=600&c=100&f=jpeg",
+            "rel": "logo_square",
+            "image": "1124695818",
+            "provider": "NPR",
+            "caption": "All Things Considered"
+          }
+        ],
+        "up": [
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/programs/all-things-considered/"
+          },
+          {
+            "content-type": "application/json",
+            "href": "https://listening.api.npr.org/v2/aggregation/2/recommendations"
+          }
+        ],
+        "program": [
+          {
+            "content-type": "application/json",
+            "href": "https://listening.api.npr.org/v2/rundowns/2/recommendations"
+          }
+        ],
+        "web": [
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/2024/08/15/nx-s1-5073003/matt-gaetz-florida-primary-kevin-mccarthy"
+          },
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/2024/08/15/nx-s1-5073003/matt-gaetz-florida-primary-kevin-mccarthy",
+            "rel": "buildout",
+            "linkText": "Read Story"
+          },
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/transcripts/nx-s1-5073003",
+            "rel": "transcript",
+            "linkText": "Read Transcript"
+          }
+        ],
+        "audio": [
+          {
+            "content-type": "audio/mp3",
+            "href": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2024/08/20240815_atc_in_florida_primary_matt_gaetz_is_fighting_a_battle_over_the_future_identity_of_the_gop.mp3?size=3590314&d=224349&e=nx-s1-5073003&NPROne=true&nprClientId=1&dl=1",
+            "rel": "download"
+          },
+          {
+            "content-type": "audio/mp3",
+            "href": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2024/08/20240815_atc_in_florida_primary_matt_gaetz_is_fighting_a_battle_over_the_future_identity_of_the_gop.mp3?size=3590314&d=224349&e=nx-s1-5073003&NPROne=true&nprClientId=1"
+          },
+          {
+            "content-type": "audio/aac",
+            "href": "https://ondemand.npr.org/npr-mp4/npr/atc/2024/08/20240815_atc_in_florida_primary_matt_gaetz_is_fighting_a_battle_over_the_future_identity_of_the_gop.mp4?size=1835525&d=224349&e=nx-s1-5073003&NPROne=true&nprClientId=1"
+          },
+          {
+            "content-type": "application/vnd.apple.mpegurl",
+            "href": "https://ondemandhls.npr.org/nprhls/npr/atc/2024/08/20240815_atc_in_florida_primary_matt_gaetz_is_fighting_a_battle_over_the_future_identity_of_the_gop/master.m3u8?d=224349&e=nx-s1-5073003&NPROne=true&nprClientId=1"
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "version": "1.0",
+      "href": "https://listening.api.npr.org/v2/recommendations?uid=g-s1-17382%3ATEXT",
+      "attributes": {
+        "title": "John Lansing, the steady CEO who led NPR through the pandemic's crises, dies at 67",
+        "uid": "g-s1-17382:TEXT",
+        "label": null,
+        "storyId": "g-s1-17382",
+        "type": "text",
+        "renderType": "standard",
+        "slug": {
+          "href": "https://www.npr.org/sections/media/",
+          "title": "Media",
+          "externalId": "1020",
+          "badge": null
+        },
+        "provider": "NPR",
+        "date": "2024-08-16T17:22:22+00:00",
+        "description": "Lansing tangled with titans, kept the network’s shows on the air even as its offices closed during the COVID-19 pandemic, and steered NPR through what he defined as an “existential” financial crisis."
+      },
+      "items": [],
+      "links": {
+        "profile": [
+          {
+            "content-type": "text/html",
+            "href": "/profiles/TextItemDocument"
+          }
+        ],
+        "image": [
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/720x540+0+0/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "rel": "standard",
+            "image": "g-s1-17383",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/720x405+0+67/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "rel": "wide",
+            "image": "g-s1-17383",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/720x720+0+0/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "rel": "square",
+            "image": "g-s1-17383",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/720x480+0+30/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "rel": "slide",
+            "image": "g-s1-17383",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/720x331+0+104/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "image": "g-s1-17383",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/540x720+102+0/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "image": "g-s1-17383",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/720x720+0+0/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "image": "g-s1-17383",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/720x540+0+0/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "rel": "standard",
+            "image": "g-s1-17383-4",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/720x405+0+67/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "rel": "wide",
+            "image": "g-s1-17383-4",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/720x720+0+0/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "rel": "square",
+            "image": "g-s1-17383-4",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/720x480+0+30/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "rel": "slide",
+            "image": "g-s1-17383-4",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/720x331+0+104/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "image": "g-s1-17383-4",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/540x720+102+0/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "image": "g-s1-17383-4",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/720x720+0+0/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "image": "g-s1-17383-4",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/720x540+0+0/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "rel": "standard",
+            "image": "g-s1-17383-5",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/720x405+0+67/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "rel": "wide",
+            "image": "g-s1-17383-5",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/720x720+0+0/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "rel": "square",
+            "image": "g-s1-17383-5",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/720x480+0+30/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "rel": "slide",
+            "image": "g-s1-17383-5",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/720x331+0+104/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "image": "g-s1-17383-5",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/540x720+102+0/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "image": "g-s1-17383-5",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/720x720+0+0/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "image": "g-s1-17383-5",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/720x540+0+0/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "rel": "standard",
+            "image": "g-s1-17383-6",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/720x405+0+67/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "rel": "wide",
+            "image": "g-s1-17383-6",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/720x720+0+0/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "rel": "square",
+            "image": "g-s1-17383-6",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/720x480+0+30/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "rel": "slide",
+            "image": "g-s1-17383-6",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/720x331+0+104/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "image": "g-s1-17383-6",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/540x720+102+0/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "image": "g-s1-17383-6",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          },
+          {
+            "content-type": "image/png",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/720x720+0+0/resize/600/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F81%2Ff4bcff3d445d87279b2e9a72fc36%2Fimage-10.png",
+            "image": "g-s1-17383-6",
+            "provider": "NPR",
+            "caption": " Former NPR CEO John Lansing"
+          }
+        ],
+        "web": [
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/2024/08/16/g-s1-17382/john-lansing-npr-ceo-dies-dei-union"
+          },
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/2024/08/16/g-s1-17382/john-lansing-npr-ceo-dies-dei-union",
+            "rel": "buildout",
+            "linkText": "Read Story"
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "version": "1.0",
+      "href": "https://listening.api.npr.org/v2/recommendations?uid=nx-s1-5050768%3ATEXT",
+      "attributes": {
+        "title": "How to say 'Kamala' — and why it makes a difference",
+        "uid": "nx-s1-5050768:TEXT",
+        "label": null,
+        "storyId": "nx-s1-5050768",
+        "type": "text",
+        "renderType": "standard",
+        "slug": {
+          "href": "https://www.npr.org/programs/all-things-considered/",
+          "title": "All Things Considered",
+          "externalId": "2",
+          "badge": null
+        },
+        "provider": "NPR",
+        "date": "2024-08-08T21:30:00+00:00",
+        "description": "As Vice President Harris has risen up in the political world, the name \"Kamala\" is getting more airtime. And on the campaign trail, Harris' name is often intentionally mispronounced by her opponent."
+      },
+      "items": [],
+      "links": {
+        "profile": [
+          {
+            "content-type": "text/html",
+            "href": "/profiles/TextItemDocument"
+          }
+        ],
+        "image": [
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/911x683+57+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "rel": "standard",
+            "image": "g-s1-16825",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+23/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "rel": "wide",
+            "image": "g-s1-16825",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/683x683+171+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "rel": "square",
+            "image": "g-s1-16825",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "rel": "slide",
+            "image": "g-s1-16825",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x471+0+30/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "image": "g-s1-16825",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/512x683+256+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "image": "g-s1-16825",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "image": "g-s1-16825",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/911x683+57+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "rel": "standard",
+            "image": "g-s1-16825-7",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+23/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "rel": "wide",
+            "image": "g-s1-16825-7",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/683x683+171+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "rel": "square",
+            "image": "g-s1-16825-7",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "rel": "slide",
+            "image": "g-s1-16825-7",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x471+0+30/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "image": "g-s1-16825-7",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/512x683+256+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "image": "g-s1-16825-7",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "image": "g-s1-16825-7",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/911x683+57+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "rel": "standard",
+            "image": "g-s1-16825-8",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+23/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "rel": "wide",
+            "image": "g-s1-16825-8",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/683x683+171+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "rel": "square",
+            "image": "g-s1-16825-8",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "rel": "slide",
+            "image": "g-s1-16825-8",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x471+0+30/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "image": "g-s1-16825-8",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/512x683+256+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "image": "g-s1-16825-8",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "image": "g-s1-16825-8",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/911x683+57+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "rel": "standard",
+            "image": "g-s1-16825-9",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+23/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "rel": "wide",
+            "image": "g-s1-16825-9",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/683x683+171+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "rel": "square",
+            "image": "g-s1-16825-9",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "rel": "slide",
+            "image": "g-s1-16825-9",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x471+0+30/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "image": "g-s1-16825-9",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/512x683+256+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "image": "g-s1-16825-9",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2F85%2F8d51555e4db49a6fa2d9a86ccfa3%2Fgettyimages-2165591266.jpg",
+            "image": "g-s1-16825-9",
+            "producer": "Robyn Beck",
+            "provider": "AFP via Getty Images",
+            "caption": "Supporters attend a Harris-Walz campaign event at Desert Diamond Arena in Glendale, Ariz., on Aug. 9."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://media.npr.org/assets/img/2022/09/23/all-things-considered_tile_npr-network_sq-d0a3240a9b7a682c735d6f004d9d48f42de13030.jpg?s=600&c=100&f=jpeg",
+            "rel": "logo_square",
+            "image": "1124695818",
+            "provider": "NPR",
+            "caption": "All Things Considered"
+          }
+        ],
+        "up": [
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/programs/all-things-considered/"
+          },
+          {
+            "content-type": "application/json",
+            "href": "https://listening.api.npr.org/v2/aggregation/2/recommendations"
+          }
+        ],
+        "program": [
+          {
+            "content-type": "application/json",
+            "href": "https://listening.api.npr.org/v2/rundowns/2/recommendations"
+          }
+        ],
+        "web": [
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/2024/08/08/nx-s1-5050768/significance-trump-repeated-mispronunciation-kamala"
+          },
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/2024/08/08/nx-s1-5050768/significance-trump-repeated-mispronunciation-kamala",
+            "rel": "buildout",
+            "linkText": "Read Story"
+          },
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/transcripts/nx-s1-5050768",
+            "rel": "transcript",
+            "linkText": "Read Transcript"
+          }
+        ],
+        "audio": [
+          {
+            "content-type": "audio/mp3",
+            "href": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2024/08/20240808_atc_so_how_do_you_say_kamala.mp3?size=3762931&d=235135&e=nx-s1-5050768&NPROne=true&nprClientId=1&dl=1",
+            "rel": "download"
+          },
+          {
+            "content-type": "audio/mp3",
+            "href": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2024/08/20240808_atc_so_how_do_you_say_kamala.mp3?size=3762931&d=235135&e=nx-s1-5050768&NPROne=true&nprClientId=1"
+          },
+          {
+            "content-type": "audio/aac",
+            "href": "https://ondemand.npr.org/npr-mp4/npr/atc/2024/08/20240808_atc_so_how_do_you_say_kamala.mp4?size=1923670&d=235135&e=nx-s1-5050768&NPROne=true&nprClientId=1"
+          },
+          {
+            "content-type": "application/vnd.apple.mpegurl",
+            "href": "https://ondemandhls.npr.org/nprhls/npr/atc/2024/08/20240808_atc_so_how_do_you_say_kamala/master.m3u8?d=235135&e=nx-s1-5050768&NPROne=true&nprClientId=1"
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "version": "1.0",
+      "href": "https://listening.api.npr.org/v2/recommendations?uid=g-s1-17201%3ATEXT",
+      "attributes": {
+        "title": "‘Washington Post’ reviews star columnist Taylor Lorenz's 'war criminal' jab at Biden",
+        "uid": "g-s1-17201:TEXT",
+        "label": null,
+        "storyId": "g-s1-17201",
+        "type": "text",
+        "renderType": "standard",
+        "slug": {
+          "href": "https://www.npr.org/sections/business/",
+          "title": "Business",
+          "externalId": "1006",
+          "badge": null
+        },
+        "provider": "NPR",
+        "date": "2024-08-15T23:55:10+00:00",
+        "description": "The Washington Post is reviewing star tech columnist Taylor Lorenz's private chat in which she posted a photo of herself near President Biden — and the caption \"war criminal.\""
+      },
+      "items": [],
+      "links": {
+        "profile": [
+          {
+            "content-type": "text/html",
+            "href": "/profiles/TextItemDocument"
+          }
+        ],
+        "image": [
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/911x683+57+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "rel": "standard",
+            "image": "g-s1-17257",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/732x412+122+55/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "rel": "wide",
+            "image": "g-s1-17257",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/426x426+279+61/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "rel": "square",
+            "image": "g-s1-17257",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "rel": "slide",
+            "image": "g-s1-17257",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x471+0+67/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "image": "g-s1-17257",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/512x683+256+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "image": "g-s1-17257",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "image": "g-s1-17257",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/911x683+57+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "rel": "standard",
+            "image": "g-s1-17257-10",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/732x412+122+55/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "rel": "wide",
+            "image": "g-s1-17257-10",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/426x426+279+61/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "rel": "square",
+            "image": "g-s1-17257-10",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "rel": "slide",
+            "image": "g-s1-17257-10",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x471+0+67/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "image": "g-s1-17257-10",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/512x683+256+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "image": "g-s1-17257-10",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "image": "g-s1-17257-10",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/911x683+57+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "rel": "standard",
+            "image": "g-s1-17257-11",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/732x412+122+55/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "rel": "wide",
+            "image": "g-s1-17257-11",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/426x426+279+61/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "rel": "square",
+            "image": "g-s1-17257-11",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "rel": "slide",
+            "image": "g-s1-17257-11",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x471+0+67/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "image": "g-s1-17257-11",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/512x683+256+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "image": "g-s1-17257-11",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "image": "g-s1-17257-11",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/911x683+57+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "rel": "standard",
+            "image": "g-s1-17257-12",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/732x412+122+55/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "rel": "wide",
+            "image": "g-s1-17257-12",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/426x426+279+61/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "rel": "square",
+            "image": "g-s1-17257-12",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "rel": "slide",
+            "image": "g-s1-17257-12",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x471+0+67/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "image": "g-s1-17257-12",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/512x683+256+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "image": "g-s1-17257-12",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F7c%2F3b5faa1c4a54b24e400c55b19854%2Fgettyimages-1497461299.jpg",
+            "image": "g-s1-17257-12",
+            "producer": "Jamie McCarthy",
+            "provider": "Getty Images for Tribeca Festival",
+            "caption": "Taylor Lorenz attends the <em>This Is Not Financial Advice</em> premiere during the 2023 Tribeca Festival at SVA Theatre on June 10, 2023, in New York City. "
+          }
+        ],
+        "web": [
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/2024/08/15/g-s1-17201/washington-post-taylor-lorenz-tech-columnist-biden"
+          },
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/2024/08/15/g-s1-17201/washington-post-taylor-lorenz-tech-columnist-biden",
+            "rel": "buildout",
+            "linkText": "Read Story"
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "version": "1.0",
+      "href": "https://listening.api.npr.org/v2/recommendations?uid=nx-s1-5076827%3ATEXT",
+      "attributes": {
+        "title": "4 ex-law enforcement officers are charged in a $37 million extortion scheme",
+        "uid": "nx-s1-5076827:TEXT",
+        "label": null,
+        "storyId": "nx-s1-5076827",
+        "type": "text",
+        "renderType": "standard",
+        "slug": {
+          "href": "https://www.npr.org/sections/law/",
+          "title": "Law",
+          "externalId": "1070",
+          "badge": null
+        },
+        "provider": "NPR",
+        "date": "2024-08-15T18:50:12+00:00",
+        "description": "Prosecutors say the ex-law enforcement and military officers took part in a wild scheme, funded by a Chinese national, to trick a man into signing away his rights in a business worth millions."
+      },
+      "items": [],
+      "links": {
+        "profile": [
+          {
+            "content-type": "text/html",
+            "href": "/profiles/TextItemDocument"
+          }
+        ],
+        "image": [
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4433x3325+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "rel": "standard",
+            "image": "g-s1-17158",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4988x2806+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "rel": "wide",
+            "image": "g-s1-17158",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3325x3325+478+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "rel": "square",
+            "image": "g-s1-17158",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4988x3325+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "rel": "slide",
+            "image": "g-s1-17158",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4988x2294+0+135/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "image": "g-s1-17158",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2494x3325+894+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "image": "g-s1-17158",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4988x3325+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "image": "g-s1-17158",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4433x3325+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "rel": "standard",
+            "image": "g-s1-17158-13",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4988x2806+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "rel": "wide",
+            "image": "g-s1-17158-13",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3325x3325+478+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "rel": "square",
+            "image": "g-s1-17158-13",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4988x3325+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "rel": "slide",
+            "image": "g-s1-17158-13",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4988x2294+0+135/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "image": "g-s1-17158-13",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2494x3325+894+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "image": "g-s1-17158-13",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4988x3325+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "image": "g-s1-17158-13",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4433x3325+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "rel": "standard",
+            "image": "g-s1-17158-14",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4988x2806+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "rel": "wide",
+            "image": "g-s1-17158-14",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3325x3325+478+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "rel": "square",
+            "image": "g-s1-17158-14",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4988x3325+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "rel": "slide",
+            "image": "g-s1-17158-14",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4988x2294+0+135/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "image": "g-s1-17158-14",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2494x3325+894+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "image": "g-s1-17158-14",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4988x3325+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "image": "g-s1-17158-14",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4433x3325+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "rel": "standard",
+            "image": "g-s1-17158-15",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4988x2806+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "rel": "wide",
+            "image": "g-s1-17158-15",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3325x3325+478+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "rel": "square",
+            "image": "g-s1-17158-15",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4988x3325+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "rel": "slide",
+            "image": "g-s1-17158-15",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4988x2294+0+135/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "image": "g-s1-17158-15",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2494x3325+894+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "image": "g-s1-17158-15",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4988x3325+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F47%2F65718bcb4d66bfcd865043234c7c%2Fap23365163816919.jpg",
+            "image": "g-s1-17158-15",
+            "producer": "Jae C. Hong",
+            "provider": "AP",
+            "caption": "FILE - A roll of police tape is left on the windshield of a Los Angeles County sheriff's vehicle. Federal prosecutors allege two former Los Angeles County Sheriff's Department officers took part in an elaborate extortion scheme."
+          }
+        ],
+        "web": [
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/2024/08/15/nx-s1-5076827/fake-extortion-raid-lasd-los-angeles"
+          },
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/2024/08/15/nx-s1-5076827/fake-extortion-raid-lasd-los-angeles",
+            "rel": "buildout",
+            "linkText": "Read Story"
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "version": "1.0",
+      "href": "https://listening.api.npr.org/v2/recommendations?uid=g-s1-17108%3ATEXT",
+      "attributes": {
+        "title": "Who or what did Trump call 'the greatest cutter' this week? Find out in the quiz",
+        "uid": "g-s1-17108:TEXT",
+        "label": null,
+        "storyId": "g-s1-17108",
+        "type": "text",
+        "renderType": "standard",
+        "slug": {
+          "href": "https://www.npr.org/series/1146192567/weekly-news-quiz",
+          "title": "The NPR news quiz",
+          "externalId": "1146192567",
+          "badge": null
+        },
+        "provider": "NPR",
+        "date": "2024-08-16T09:00:00+00:00",
+        "description": "After the blissful news avalanches of campaign hijinks and the Olympics, we're back to the usual soup of science, retail and animals."
+      },
+      "items": [],
+      "links": {
+        "profile": [
+          {
+            "content-type": "text/html",
+            "href": "/profiles/TextItemDocument"
+          }
+        ],
+        "image": [
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4243x3182+706+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "rel": "standard",
+            "image": "g-s1-17190",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5654x3180+0+1/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "rel": "wide",
+            "image": "g-s1-17190",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1341x1340+2117+1836/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "rel": "square",
+            "image": "g-s1-17190",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4773x3182+441+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "rel": "slide",
+            "image": "g-s1-17190",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5654x2601+0+291/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "image": "g-s1-17190",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2387x3182+1634+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "image": "g-s1-17190",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5654x3182+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "image": "g-s1-17190",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4243x3182+706+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "rel": "standard",
+            "image": "g-s1-17190-16",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5654x3180+0+1/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "rel": "wide",
+            "image": "g-s1-17190-16",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1341x1340+2117+1836/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "rel": "square",
+            "image": "g-s1-17190-16",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4773x3182+441+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "rel": "slide",
+            "image": "g-s1-17190-16",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5654x2601+0+291/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "image": "g-s1-17190-16",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2387x3182+1634+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "image": "g-s1-17190-16",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5654x3182+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "image": "g-s1-17190-16",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4243x3182+706+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "rel": "standard",
+            "image": "g-s1-17190-17",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5654x3180+0+1/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "rel": "wide",
+            "image": "g-s1-17190-17",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1341x1340+2117+1836/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "rel": "square",
+            "image": "g-s1-17190-17",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4773x3182+441+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "rel": "slide",
+            "image": "g-s1-17190-17",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5654x2601+0+291/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "image": "g-s1-17190-17",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2387x3182+1634+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "image": "g-s1-17190-17",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5654x3182+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "image": "g-s1-17190-17",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4243x3182+706+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "rel": "standard",
+            "image": "g-s1-17190-18",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5654x3180+0+1/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "rel": "wide",
+            "image": "g-s1-17190-18",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1341x1340+2117+1836/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "rel": "square",
+            "image": "g-s1-17190-18",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4773x3182+441+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "rel": "slide",
+            "image": "g-s1-17190-18",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5654x2601+0+291/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "image": "g-s1-17190-18",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2387x3182+1634+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "image": "g-s1-17190-18",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5654x3182+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2Fdd%2Fec83da5b4c5e848719c46ea06948%2Faugust-15.jpg",
+            "image": "g-s1-17190-18",
+            "provider": "Jon Kopaloff/Getty Images for Breakthrough Prize; Ezequiel Becerra/AFP via Getty Images; Jamie Squire/Getty Images",
+            "caption": "From left: Elon Musk, a sloth, Tom Cruise."
+          }
+        ],
+        "web": [
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/2024/08/15/g-s1-17108/trump-musk-olympics-science-rfk-costco-stonehenge"
+          },
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/2024/08/15/g-s1-17108/trump-musk-olympics-science-rfk-costco-stonehenge",
+            "rel": "buildout",
+            "linkText": "Read Story"
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "version": "1.0",
+      "href": "https://listening.api.npr.org/v2/recommendations?uid=nx-s1-5074121%3ATEXT",
+      "attributes": {
+        "title": "What you need to know about the child tax credit as both campaigns embrace it",
+        "uid": "nx-s1-5074121:TEXT",
+        "label": null,
+        "storyId": "nx-s1-5074121",
+        "type": "text",
+        "renderType": "standard",
+        "slug": {
+          "href": "https://www.npr.org/programs/all-things-considered/",
+          "title": "All Things Considered",
+          "externalId": "2",
+          "badge": null
+        },
+        "provider": "NPR",
+        "date": "2024-08-15T20:05:02+00:00",
+        "description": "A major expansion of the child tax credit during the height of the COVID pandemic temporarily slashed the child poverty rate in half. That is one reason why it has become a hot topic in the presidential race."
+      },
+      "items": [],
+      "links": {
+        "profile": [
+          {
+            "content-type": "text/html",
+            "href": "/profiles/TextItemDocument"
+          }
+        ],
+        "image": [
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4959x3719+541+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "rel": "standard",
+            "image": "g-s1-17295",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3094+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "rel": "wide",
+            "image": "g-s1-17295",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3719x3719+1781+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "rel": "square",
+            "image": "g-s1-17295",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3667+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "rel": "slide",
+            "image": "g-s1-17295",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x2530+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "image": "g-s1-17295",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2789x3719+2438+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "image": "g-s1-17295",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3719+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "image": "g-s1-17295",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4959x3719+541+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "rel": "standard",
+            "image": "g-s1-17295-19",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3094+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "rel": "wide",
+            "image": "g-s1-17295-19",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3719x3719+1781+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "rel": "square",
+            "image": "g-s1-17295-19",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3667+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "rel": "slide",
+            "image": "g-s1-17295-19",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x2530+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "image": "g-s1-17295-19",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2789x3719+2438+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "image": "g-s1-17295-19",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3719+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "image": "g-s1-17295-19",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4959x3719+541+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "rel": "standard",
+            "image": "g-s1-17295-20",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3094+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "rel": "wide",
+            "image": "g-s1-17295-20",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3719x3719+1781+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "rel": "square",
+            "image": "g-s1-17295-20",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3667+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "rel": "slide",
+            "image": "g-s1-17295-20",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x2530+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "image": "g-s1-17295-20",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2789x3719+2438+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "image": "g-s1-17295-20",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3719+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "image": "g-s1-17295-20",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4959x3719+541+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "rel": "standard",
+            "image": "g-s1-17295-21",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3094+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "rel": "wide",
+            "image": "g-s1-17295-21",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3719x3719+1781+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "rel": "square",
+            "image": "g-s1-17295-21",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3667+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "rel": "slide",
+            "image": "g-s1-17295-21",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x2530+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "image": "g-s1-17295-21",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2789x3719+2438+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "image": "g-s1-17295-21",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3719+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F8e%2Fc24e514b480db2fc4fd12ea629ad%2Fgettyimages-2163514216.jpg",
+            "image": "g-s1-17295-21",
+            "producer": "Stephen Maturen",
+            "provider": "Getty Images",
+            "caption": "Ohio Sen. JD Vance, the Republican vice presidential nominee, carries his daughter, Maribel, on the campaign trail in St. Cloud, Minnesota. Vance and his wife, Usha, also have a young son, Vivek. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://media.npr.org/assets/img/2022/09/23/all-things-considered_tile_npr-network_sq-d0a3240a9b7a682c735d6f004d9d48f42de13030.jpg?s=600&c=100&f=jpeg",
+            "rel": "logo_square",
+            "image": "1124695818",
+            "provider": "NPR",
+            "caption": "All Things Considered"
+          }
+        ],
+        "up": [
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/programs/all-things-considered/"
+          },
+          {
+            "content-type": "application/json",
+            "href": "https://listening.api.npr.org/v2/aggregation/2/recommendations"
+          }
+        ],
+        "program": [
+          {
+            "content-type": "application/json",
+            "href": "https://listening.api.npr.org/v2/rundowns/2/recommendations"
+          }
+        ],
+        "web": [
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/2024/08/15/nx-s1-5074121/child-tax-credit-explained-jd-vance-kamala-harris"
+          },
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/2024/08/15/nx-s1-5074121/child-tax-credit-explained-jd-vance-kamala-harris",
+            "rel": "buildout",
+            "linkText": "Read Story"
+          },
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/transcripts/nx-s1-5074121",
+            "rel": "transcript",
+            "linkText": "Read Transcript"
+          }
+        ],
+        "audio": [
+          {
+            "content-type": "audio/mp3",
+            "href": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2024/08/20240815_atc_the_history_of_the_child_tax_credit_a_policy_that_s_getting_attention_from_campaigns.mp3?size=3288965&d=205517&e=nx-s1-5074121&NPROne=true&nprClientId=1&dl=1",
+            "rel": "download"
+          },
+          {
+            "content-type": "audio/mp3",
+            "href": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2024/08/20240815_atc_the_history_of_the_child_tax_credit_a_policy_that_s_getting_attention_from_campaigns.mp3?size=3288965&d=205517&e=nx-s1-5074121&NPROne=true&nprClientId=1"
+          },
+          {
+            "content-type": "audio/aac",
+            "href": "https://ondemand.npr.org/npr-mp4/npr/atc/2024/08/20240815_atc_the_history_of_the_child_tax_credit_a_policy_that_s_getting_attention_from_campaigns.mp4?size=1681580&d=205517&e=nx-s1-5074121&NPROne=true&nprClientId=1"
+          },
+          {
+            "content-type": "application/vnd.apple.mpegurl",
+            "href": "https://ondemandhls.npr.org/nprhls/npr/atc/2024/08/20240815_atc_the_history_of_the_child_tax_credit_a_policy_that_s_getting_attention_from_campaigns/master.m3u8?d=205517&e=nx-s1-5074121&NPROne=true&nprClientId=1"
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "version": "1.0",
+      "href": "https://listening.api.npr.org/v2/recommendations?uid=g-s1-16886%3ATEXT",
+      "attributes": {
+        "title": "The Trump team responds after 'Republicans for Harris' call Trump 'unfit' to be president",
+        "uid": "g-s1-16886:TEXT",
+        "label": null,
+        "storyId": "g-s1-16886",
+        "type": "text",
+        "renderType": "standard",
+        "slug": {
+          "href": "https://www.npr.org/sections/elections/",
+          "title": "Elections",
+          "externalId": "139482413",
+          "badge": null
+        },
+        "provider": "NPR",
+        "date": "2024-08-15T14:17:48+00:00",
+        "description": "At its first rally, \"Republicans for Harris\" encouraged fellow conservatives to vote for Democrats over former President Donald Trump. The Trump team responded, calling Harris \"dangerously liberal.\""
+      },
+      "items": [],
+      "links": {
+        "profile": [
+          {
+            "content-type": "text/html",
+            "href": "/profiles/TextItemDocument"
+          }
+        ],
+        "image": [
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3287x2465+207+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "rel": "standard",
+            "image": "g-s1-17113",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3700x2081+0+192/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "rel": "wide",
+            "image": "g-s1-17113",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2465x2465+618+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "rel": "square",
+            "image": "g-s1-17113",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3698x2465+1+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "rel": "slide",
+            "image": "g-s1-17113",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3700x1702+0+382/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "image": "g-s1-17113",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1849x2465+926+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "image": "g-s1-17113",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3700x2465+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "image": "g-s1-17113",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3287x2465+207+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "rel": "standard",
+            "image": "g-s1-17113-22",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3700x2081+0+192/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "rel": "wide",
+            "image": "g-s1-17113-22",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2465x2465+618+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "rel": "square",
+            "image": "g-s1-17113-22",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3698x2465+1+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "rel": "slide",
+            "image": "g-s1-17113-22",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3700x1702+0+382/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "image": "g-s1-17113-22",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1849x2465+926+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "image": "g-s1-17113-22",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3700x2465+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "image": "g-s1-17113-22",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3287x2465+207+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "rel": "standard",
+            "image": "g-s1-17113-23",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3700x2081+0+192/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "rel": "wide",
+            "image": "g-s1-17113-23",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2465x2465+618+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "rel": "square",
+            "image": "g-s1-17113-23",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3698x2465+1+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "rel": "slide",
+            "image": "g-s1-17113-23",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3700x1702+0+382/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "image": "g-s1-17113-23",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1849x2465+926+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "image": "g-s1-17113-23",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3700x2465+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "image": "g-s1-17113-23",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3287x2465+207+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "rel": "standard",
+            "image": "g-s1-17113-24",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3700x2081+0+192/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "rel": "wide",
+            "image": "g-s1-17113-24",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2465x2465+618+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "rel": "square",
+            "image": "g-s1-17113-24",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3698x2465+1+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "rel": "slide",
+            "image": "g-s1-17113-24",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3700x1702+0+382/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "image": "g-s1-17113-24",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1849x2465+926+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "image": "g-s1-17113-24",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3700x2465+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fbe%2F9d173566479e8098802794e9e25a%2Fap24227794136543.jpg",
+            "image": "g-s1-17113-24",
+            "producer": "Matt Kelley",
+            "provider": "AP",
+            "caption": "Republican presidential nominee former President Donald Trump speaks at a campaign rally Wednesday in Asheville, N.C."
+          }
+        ],
+        "web": [
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/2024/08/13/g-s1-16886/republicans-for-harris-haley-voters-trump-conservatives-gop-democrats"
+          },
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/2024/08/13/g-s1-16886/republicans-for-harris-haley-voters-trump-conservatives-gop-democrats",
+            "rel": "buildout",
+            "linkText": "Read Story"
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "version": "1.0",
+      "href": "https://listening.api.npr.org/v2/recommendations?uid=g-s1-17155%3ATEXT",
+      "attributes": {
+        "title": "Why 'the last Democrat standing' in Montana is skipping the DNC",
+        "uid": "g-s1-17155:TEXT",
+        "label": null,
+        "storyId": "g-s1-17155",
+        "type": "text",
+        "renderType": "standard",
+        "slug": {
+          "href": "https://www.npr.org/sections/politics/",
+          "title": "Politics",
+          "externalId": "1014",
+          "badge": null
+        },
+        "provider": "NPR",
+        "date": "2024-08-16T09:00:00+00:00",
+        "description": "Montana used to vote consistently purple, but now there's only one Democrat holding statewide office, three-term U.S. Sen. Jon Tester. He's not exactly embracing his party this election cycle."
+      },
+      "items": [],
+      "links": {
+        "profile": [
+          {
+            "content-type": "text/html",
+            "href": "/profiles/TextItemDocument"
+          }
+        ],
+        "image": [
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7303x5477+548+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "rel": "standard",
+            "image": "g-s1-17157",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8216x4622+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "rel": "wide",
+            "image": "g-s1-17157",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5477x5477+1461+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "rel": "square",
+            "image": "g-s1-17157",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8216x5477+1+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "rel": "slide",
+            "image": "g-s1-17157",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8216x3779+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "image": "g-s1-17157",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4108x5477+2146+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "image": "g-s1-17157",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8216x5477+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "image": "g-s1-17157",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7303x5477+548+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "rel": "standard",
+            "image": "g-s1-17157-25",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8216x4622+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "rel": "wide",
+            "image": "g-s1-17157-25",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5477x5477+1461+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "rel": "square",
+            "image": "g-s1-17157-25",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8216x5477+1+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "rel": "slide",
+            "image": "g-s1-17157-25",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8216x3779+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "image": "g-s1-17157-25",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4108x5477+2146+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "image": "g-s1-17157-25",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8216x5477+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "image": "g-s1-17157-25",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7303x5477+548+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "rel": "standard",
+            "image": "g-s1-17157-26",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8216x4622+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "rel": "wide",
+            "image": "g-s1-17157-26",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5477x5477+1461+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "rel": "square",
+            "image": "g-s1-17157-26",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8216x5477+1+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "rel": "slide",
+            "image": "g-s1-17157-26",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8216x3779+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "image": "g-s1-17157-26",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4108x5477+2146+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "image": "g-s1-17157-26",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8216x5477+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "image": "g-s1-17157-26",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7303x5477+548+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "rel": "standard",
+            "image": "g-s1-17157-27",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8216x4622+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "rel": "wide",
+            "image": "g-s1-17157-27",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5477x5477+1461+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "rel": "square",
+            "image": "g-s1-17157-27",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8216x5477+1+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "rel": "slide",
+            "image": "g-s1-17157-27",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8216x3779+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "image": "g-s1-17157-27",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4108x5477+2146+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "image": "g-s1-17157-27",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8216x5477+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F0e%2F11370df749b7ae0df117eb7e60c6%2Fgettyimages-2149322623.jpg",
+            "image": "g-s1-17157-27",
+            "producer": "Mandel Ngan",
+            "provider": "AFP via Getty Images",
+            "caption": "Sen. Jon Tester, D-Mont., is hoping his status as the only working farmer in the Senate will help him secure a fourth term in November. "
+          }
+        ],
+        "web": [
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/2024/08/16/g-s1-17155/why-the-last-democrat-standing-in-montana-is-skipping-the-dnc"
+          },
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/2024/08/16/g-s1-17155/why-the-last-democrat-standing-in-montana-is-skipping-the-dnc",
+            "rel": "buildout",
+            "linkText": "Read Story"
+          }
+        ]
+      },
+      "errors": []
+    },
+    {
+      "version": "1.0",
+      "href": "https://listening.api.npr.org/v2/recommendations?uid=nx-s1-5075171%3ATEXT",
+      "attributes": {
+        "title": "Water treaty between Mexico and U.S. faces biggest test in 80 years",
+        "uid": "nx-s1-5075171:TEXT",
+        "label": null,
+        "storyId": "nx-s1-5075171",
+        "type": "text",
+        "renderType": "standard",
+        "slug": {
+          "href": "https://www.npr.org/sections/politics/",
+          "title": "Politics",
+          "externalId": "1014",
+          "badge": null
+        },
+        "provider": "NPR",
+        "date": "2024-08-16T09:05:00+00:00",
+        "description": "The water-sharing systems between Mexico and the U.S. are facing one of the biggest tests in their 80-year history after Mexico has fallen behind on billions of gallons of water deliveries."
+      },
+      "items": [],
+      "links": {
+        "profile": [
+          {
+            "content-type": "text/html",
+            "href": "/profiles/TextItemDocument"
+          }
+        ],
+        "image": [
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4693x3520+457+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "rel": "standard",
+            "image": "g-s1-17006",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5280x2970+0+220/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "rel": "wide",
+            "image": "g-s1-17006",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3520x3520+1044+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "rel": "square",
+            "image": "g-s1-17006",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5280x3520+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "rel": "slide",
+            "image": "g-s1-17006",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5280x2429+0+490/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "image": "g-s1-17006",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2640x3520+1484+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "image": "g-s1-17006",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5280x3520+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "image": "g-s1-17006",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4693x3520+457+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "rel": "standard",
+            "image": "g-s1-17006-28",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5280x2970+0+220/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "rel": "wide",
+            "image": "g-s1-17006-28",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3520x3520+1044+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "rel": "square",
+            "image": "g-s1-17006-28",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5280x3520+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "rel": "slide",
+            "image": "g-s1-17006-28",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5280x2429+0+490/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "image": "g-s1-17006-28",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2640x3520+1484+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "image": "g-s1-17006-28",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5280x3520+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "image": "g-s1-17006-28",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4693x3520+457+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "rel": "standard",
+            "image": "g-s1-17006-29",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5280x2970+0+220/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "rel": "wide",
+            "image": "g-s1-17006-29",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3520x3520+1044+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "rel": "square",
+            "image": "g-s1-17006-29",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5280x3520+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "rel": "slide",
+            "image": "g-s1-17006-29",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5280x2429+0+490/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "image": "g-s1-17006-29",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2640x3520+1484+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "image": "g-s1-17006-29",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5280x3520+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "image": "g-s1-17006-29",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4693x3520+457+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "rel": "standard",
+            "image": "g-s1-17006-30",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5280x2970+0+220/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "rel": "wide",
+            "image": "g-s1-17006-30",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3520x3520+1044+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "rel": "square",
+            "image": "g-s1-17006-30",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5280x3520+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "rel": "slide",
+            "image": "g-s1-17006-30",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5280x2429+0+490/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "image": "g-s1-17006-30",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2640x3520+1484+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "image": "g-s1-17006-30",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          },
+          {
+            "content-type": "image/jpeg",
+            "href": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5280x3520+0+0/resize/600/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F16%2F9529f5304b25afeff8c78b1e9263%2Fgettyimages-1459846326.jpg",
+            "image": "g-s1-17006-30",
+            "producer": "Brandon Bell",
+            "provider": "Getty Images",
+            "caption": "In an aerial view, the Rio Grande River is shown between the border town of Del Rio, Texas and Ciudad Acuna, Mexico in January 2023."
+          }
+        ],
+        "web": [
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/2024/08/16/nx-s1-5075171/water-treaty-mexico-united-states"
+          },
+          {
+            "content-type": "text/html",
+            "href": "https://www.npr.org/2024/08/16/nx-s1-5075171/water-treaty-mexico-united-states",
+            "rel": "buildout",
+            "linkText": "Read Story"
+          }
+        ]
+      },
+      "errors": []
+    }
+  ],
+  "links": {
+    "browse": [
+      {
+        "content-type": "text/html",
+        "href": "https://media.npr.org/documents/nprone/topics/index.html",
+        "linkText": "Browse Topics"
+      }
+    ]
+  },
+  "errors": []
+}
