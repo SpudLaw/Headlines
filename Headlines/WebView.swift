@@ -11,7 +11,7 @@ import WebKit
 
 struct WebView: UIViewRepresentable {
     let url: URL
-    var finishedLoading: Binding<Bool>
+    var loading: Binding<Bool>
 
     func makeUIView(context: Context) -> WKWebView {
         let webView = WKWebView()
@@ -36,27 +36,13 @@ struct WebView: UIViewRepresentable {
         }
 
         func webView(_ webView: WKWebView, didFinish navigation: WKNavigation!) {
-            parent.finishedLoading.wrappedValue = true
+            parent.loading.wrappedValue = false
         }
     }
 }
 
-struct BrowserView: View {
-    let url: URL
-    @State var finishedLoading: Bool = false
-
-    var body: some View {
-
-        ZStack {
-            WebView(url: url, finishedLoading: $finishedLoading)
-
-            if !finishedLoading {
-                ProgressView()
-            }
-        }
-    }
-}
 
 #Preview {
-    BrowserView(url: URL(string: "https://npr.com/")!)
+    @Previewable @State var loading = true
+    WebView(url: URL(string: "https://npr.com/")!, loading: $loading)
 }

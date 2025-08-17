@@ -22,6 +22,7 @@ class HeadlinesAPI: API {
         
         let (data, _) = try await URLSession.shared.data(for: URLRequest(url: url))
         
+        // handle throws and errors
         return try JSONDecoder().decode(TopHeadlines.self, from: data)
     }
 }

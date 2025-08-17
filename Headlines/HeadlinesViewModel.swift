@@ -17,16 +17,17 @@ class HeadlinesViewModel {
 
         Task {
             do {
-                try await fetchHeadlines()
+                headlines = try await fetchHeadlines()
             } catch {
                 print("Couldn't fetch headlines: \(error)")
             }
         }
     }
 
-    internal func fetchHeadlines() async throws {
+    internal func fetchHeadlines() async throws -> [Headline] {
         let topHeadlines = try await api.fetchTopHeadlines()
         let items = topHeadlines?.items ?? []
+        var readableHeadlines: [Headline] = []
 
         for item in items {
             let images = item.links.image
@@ -34,14 +35,18 @@ class HeadlinesViewModel {
                 image.rel == "square"
             })
 
-            self.headlines.append(
+            
+            readableHeadlines.append(
                 Headline(
                     uid: item.attributes.uid,
                     title: item.attributes.title,
                     imageURL: URL(string: squareImage[0].href),
                     webLink: URL(string: item.links.web[0].href)!
                 ))
+            
         }
+        
+        return readableHeadlines
     }
 }
 
